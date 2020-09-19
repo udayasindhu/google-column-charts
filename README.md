@@ -1,27 +1,30 @@
-# Drilldown
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/CqGIXBa.jpg" alt="Project logo"></a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+<h3 align="center">Graph Chart</h3>
 
-## Development server
+<p align="center"> Few lines describing your project.
+    <br> 
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 📝 Table of Contents
 
-## Code scaffolding
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Authors](#authors)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🧐 About <a name = "about"></a>
 
-## Build
+This app generates a graph chart in the form columns with the help of google charts
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-## Running unit tests
+Run npm install before starting the server. It will download all the required dependencies for the application.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-## Running end-to-end tests
+## ✍️ Authors <a name = "authors"></a>
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- [@udayasindhu](https://github.com/udayasindhu) - Idea & Initial work
